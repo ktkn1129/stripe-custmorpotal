@@ -1,7 +1,6 @@
 import React from 'react';
 import liff from '@line/liff';
 import './App.css';
-import * as dotenv from 'dotenv';
 
 
 function App() {
